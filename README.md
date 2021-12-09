@@ -2,4 +2,4 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM)](https://github.com/KERRCAM/github-readme-stats)
 --- 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&layout=compact)](https://github.com/KERRCAM/github-readme-stats)
