@@ -2,4 +2,4 @@
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&layout=compact)
 --- 
-![languages use](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM)
+![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM)
