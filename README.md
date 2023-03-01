@@ -7,7 +7,10 @@ name: Waka Readme
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+    - cron: "0 0 * * *" # runs at every 12AM UTC 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 jobs:
   update-readme:
