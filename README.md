@@ -24,5 +24,11 @@ jobs:
           #REPOSITORY: <gh_username/gh_username>
 
 <!--START_SECTION:waka-->
+
+```text
+Java   7 hrs 45 mins   ████████████████████████▓   98.24 %
+Text   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+```
+
 <!--END_SECTION:waka-->
 
