@@ -26,7 +26,8 @@ jobs:
 <!--START_SECTION:waka-->
 
 ```text
-Python   10 mins         █████████████████████████   100.00 %
+Python   20 mins         ████████████████████░░░░░   80.08 %
+Java     4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.92 %
 ```
 
 <!--END_SECTION:waka-->
