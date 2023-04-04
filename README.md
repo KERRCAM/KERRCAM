@@ -26,8 +26,7 @@ jobs:
 <!--START_SECTION:waka-->
 
 ```text
-Python   9 mins          ████████████████▓░░░░░░░░   66.59 %
-Java     4 mins          ████████▒░░░░░░░░░░░░░░░░   33.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
