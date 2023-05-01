@@ -26,8 +26,7 @@ jobs:
 <!--START_SECTION:waka-->
 
 ```text
-C#       16 mins         █████████████████░░░░░░░░   68.32 %
-Python   7 mins          ████████░░░░░░░░░░░░░░░░░   31.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
