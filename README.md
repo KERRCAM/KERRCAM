@@ -2,7 +2,8 @@
 
 <!--- [![KERRCAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=KERRCAM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
- 
+[![KERRCAM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM)](https://github.com/anuraghazra/github-readme-stats)
+
 name: Waka Readme
 
 on:
@@ -30,5 +31,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-[![KERRCAM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM)](https://github.com/anuraghazra/github-readme-stats)
