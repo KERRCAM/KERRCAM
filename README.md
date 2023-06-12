@@ -31,3 +31,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+[![KERRCAM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM)](https://github.com/anuraghazra/github-readme-stats)
