@@ -1,4 +1,4 @@
-![KERRCAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=KERRCAM&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KERRCAM&show_icons=true&theme=cobalt)
 
 ![KERRCAM's wakatime lifetime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM)
 
