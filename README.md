@@ -8,7 +8,7 @@
 
 
 
-Wakatime Weekly stats
+Wakatime Weekly stats:
 <!--START_SECTION:waka-->
 
 ```txt
