@@ -13,8 +13,7 @@ Wakatime reacent activity:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 6 mins     █████████████████████████   100.00 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   47 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
