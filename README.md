@@ -15,11 +15,11 @@ Wakatime reacent activity:
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file   4 mins          ██████████████▓░░░░░░░░░░   58.82 %
-Java             1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
-C++              0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-ObjectiveC       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-textmate         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Java             23 mins         ████████████████████░░░░░   80.54 %
+GitIgnore file   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
+C++              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+ObjectiveC       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+textmate         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
