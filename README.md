@@ -1,7 +1,8 @@
 **Currently a student a university of liverpool, studying computer science. Worked mainly on basic systems so far but have interests in hgih performance procesing systems. Also (attempt) to make some (varying quality) games occasionally in unity, hopefully able to use it for some more interesting simulations etc later on once ive got the hang of it better.** <br>
  
 <!--! 
-![Wakatime lifetime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM)
+![Wakatime lifetime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&hide=CMake,Makefile,C) 
 --> 
 **Languages learnt to aliright level:** <br>
 -Java (Was my main A level langauge) <br> 
@@ -47,7 +48,6 @@ nodejs (JavaScript stuff (learing)) <br>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">  </a> </p>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&hide=CMake,Makefile,C) 
 <br> 
 **Wakatime reacent activity (not all programs i use appear, so low activity could just mean im using one of them, ...or doing nothing):**
 <!--START_SECTION:waka-->
