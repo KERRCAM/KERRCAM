@@ -27,9 +27,9 @@
 <h3 align="left"></h3>
 
 <h3 align="left">Other Tools:</h3>
-<h3 align="left">Unity</h3> (Any game project i do) 
+<h3 align="left">Unity (Any game project i do) /h3> 
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-<h3 align="left">nodejs</h3> (JavaScript stuff (learing)) 
+<h3 align="left">nodejs (JavaScript stuff (learing)) /h3> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <h3 align="left"></h3>
 
