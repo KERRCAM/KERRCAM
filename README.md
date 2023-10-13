@@ -8,7 +8,8 @@
 **-Java (main A level langauge)** <br> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-**-Python (main GCSE language)** <br>
+**-Python (main GCSE language)** 
+<br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 **-C# (EPQ)** <br>
@@ -20,10 +21,12 @@
 **-Haskell (at university)** <br> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
-**-C++ (art program)** <br>
+**-C++ (art program)** 
+<br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-**-C (tbd)** <br>  
+**-C (tbd)** 
+<br>  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  
@@ -32,7 +35,8 @@
 **-Javascript (havnt really done any web stuff yet)** <br>  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-**Kotlin** <br>
+**-Kotlin** 
+<br>
 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
 
