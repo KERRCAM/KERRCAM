@@ -5,10 +5,10 @@
 ![Wakatime lifetime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM)
 --> 
 **Languages learnt to aliright level:** <br>
--Java (main A level langauge) <br> 
+-Java (Was my main A level langauge) <br> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
--Python (main GCSE language) <br>
+-Python (Was my main GCSE language) <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 -C# (EPQ) <br>
@@ -17,10 +17,10 @@
 
 
 **Languages trying to learn currently:** <br>
--Haskell (at university) <br> 
+-Haskell (learning at university) <br> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
--C++ (art program) <br>
+-C++ (working on art program) <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 -C (tbd) <br>  
