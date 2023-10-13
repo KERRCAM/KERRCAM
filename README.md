@@ -5,47 +5,43 @@
 ![Wakatime lifetime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM)
 --> 
 **Languages learnt to aliright level:** <br>
-**-Java (main A level langauge)** <br> 
+-Java (main A level langauge) <br> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-**-Python (main GCSE language)** 
-<br>
+-Python (main GCSE language) <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-**-C# (EPQ)** <br>
+-C# (EPQ) <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 
 
 **Languages trying to learn currently:** <br>
-**-Haskell (at university)** <br> 
+-Haskell (at university) <br> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
-**-C++ (art program)** 
-<br>
+-C++ (art program) <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-**-C (tbd)** 
-<br>  
+-C (tbd) <br>  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  
 
 **languages id like to learn:** <br>
-**-Javascript (havnt really done any web stuff yet)** <br>  
+-Javascript (havnt really done any web stuff yet) <br>  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-**-Kotlin** 
-<br>
+-Kotlin <br>
 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
 
 
 **Other Tools:** <br>
-**Unity (Any game project i do)** <br>
+Unity (Any game project i do) <br>
 
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-**nodejs (JavaScript stuff (learing))** <br>
+nodejs (JavaScript stuff (learing)) <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
