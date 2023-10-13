@@ -1,4 +1,4 @@
-<h3 align="left">Currently a student a university of liverpool, studying computer science. Worked mainly on basic systems so far but have interests in hgih performance procesing systems. Also (attempt) to make some (varying quality) games occasionally in unity, hopefully able to use it for some more interesting simulations etc later on once ive got the hang of it better. </h3>
+**Currently a student a university of liverpool, studying computer science. Worked mainly on basic systems so far but have interests in hgih performance procesing systems. Also (attempt) to make some (varying quality) games occasionally in unity, hopefully able to use it for some more interesting simulations etc later on once ive got the hang of it better.**
 <h3 align="left"> 
 
 <!--! 
