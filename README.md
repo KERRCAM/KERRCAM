@@ -5,7 +5,7 @@
 --> 
 <h3 align="left">Languages learnt to aliright level: </h3>
 <h3 align="left">-Java (main A level langauge):::::::::::::::::::::::::::::::::::::::-Python (main GCSE language)</h3> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><h3 align="left">-Python (main GCSE language) </h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><h3 align="left">-Python (main GCSE language) </h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <h3 align="left">-C# (EPQ) </h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
