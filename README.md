@@ -30,7 +30,7 @@
 <br>
 
 **Other Tools:** <br>
-**Unity (Any game project i do)** ,br>
+**Unity (Any game project i do)** <br>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 **nodejs (JavaScript stuff (learing))** <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
