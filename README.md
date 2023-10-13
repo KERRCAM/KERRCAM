@@ -51,7 +51,7 @@ nodejs (JavaScript stuff (learing)) <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&hide=CMake,Makefile,C)  
 <br>
-*8Wakatime reacent activity (not all programs i use appear, so low activity could just mean im using one of them, ...or doing nothing):**
+**Wakatime reacent activity (not all programs i use appear, so low activity could just mean im using one of them, ...or doing nothing):**
 <!--START_SECTION:waka-->
   
 ```txt
