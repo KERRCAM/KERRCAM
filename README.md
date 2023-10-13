@@ -4,6 +4,10 @@ Currently a student a university of liverpool, studying computer science. Worked
 ![Wakatime lifetime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM)
 --> 
 
+
+
+
+
 Languages learnt to aliright level: 
 -Java (main A level langauge) 
 -Python (main GCSE language) 
