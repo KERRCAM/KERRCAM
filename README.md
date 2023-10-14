@@ -51,9 +51,9 @@ nodejs (JavaScript stuff (learing)) <br>
 
 **Wakatime reacent activity (not all programs i use appear, so low activity could just mean im using one of them, ...or doing nothing):**
 <!--START_SECTION:waka-->
-  
+
 ```txt
-Java   21 mins         █████████████████████████   100.00 %
+Haskell   29 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
