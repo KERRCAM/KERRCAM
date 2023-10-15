@@ -53,7 +53,11 @@ nodejs (JavaScript stuff (learing)) <br>
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell   29 mins         █████████████████████████   100.00 %
+Haskell          2 hrs 22 mins   ██████████████████▓░░░░░░   74.70 %
+Java             22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+JavaScript       19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+JSON             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Python           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
