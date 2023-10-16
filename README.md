@@ -1,11 +1,11 @@
-**Currently a student a University of Liverpool, studying computer science. Worked mainly on basic systems so far but have interests in hgih performance procesing systems. Also (attempt) to make some (varying quality) games occasionally in unity, hopefully able to use it for some more interesting simulations etc later on once ive got the hang of it better.** <br>
+**Currently a student a University of Liverpool, studying computer science. Worked mainly on basic systems so far but have interests in hgih performance procesing systems. Also (attempt) to make some (varying quality) games occasionally in unity, hopefully able to use it for some more interesting simulations etc later on once ive got the hang of it better. Project links to anything im currently working on or am semi moderatly pround of completing.** <br>
  
 <!--! 
 ![Wakatime lifetime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&hide=CMake,Makefile,C) 
 --> 
 **Languages learnt to aliright level:** <br>
--Java (Was my main A level langauge) <br> 
+-Java (Was my main A level langauge: https://github.com/KERRCAM/courseworkMain) <br> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 -Python (Was my main GCSE language) <br>
@@ -17,10 +17,10 @@
 
 
 **Languages trying to learn currently:** <br>
--Haskell (learning at university) <br> 
+-Haskell (learning at university: https://github.com/KERRCAM/haskellCode) <br> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
--C++ (working on art program) <br>
+-C++ (working on art program: https://github.com/KERRCAM/artProgram) <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 -C (going to attempt to make custome language and compiler for it: https://github.com/KERRCAM/NesC) <br>  
