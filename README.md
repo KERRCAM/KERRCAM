@@ -17,19 +17,19 @@
 
 
 **Languages trying to learn currently:** <br>
--Haskell (learning at university: https://github.com/KERRCAM/haskellCode) <br> 
+-Haskell (Learning at university: https://github.com/KERRCAM/haskellCode) <br> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
--C++ (working on art program: https://github.com/KERRCAM/artProgram) <br>
+-C++ (Working on art program: https://github.com/KERRCAM/artProgram) <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
--C (going to attempt to make custome language and compiler for it: https://github.com/KERRCAM/NesC) <br>  
+-C (Attempting to make custome language and compiler for it: https://github.com/KERRCAM/NesC) <br>  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  
 
 **languages id like to learn:** <br>
--Javascript (havnt really done any web stuff yet) <br>  
+-Javascript (Would like to make simple blog page at some point just to learn some web stuff) <br>  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 -Kotlin <br>
@@ -41,7 +41,7 @@
 Unity (Any game project i do) <br>
 
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-nodejs (JavaScript stuff (learing)) <br>
+nodejs (JavaScript stuff) <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
