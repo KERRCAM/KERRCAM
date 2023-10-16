@@ -11,7 +11,7 @@
 -Python (Was my main GCSE language) <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
--C# (EPQ) <br>
+-C# (Currently working on a 2D platformer metroidvania and an isometric dungeon crawler in Unity) <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 
