@@ -1,4 +1,4 @@
-**Currently a student a University of Liverpool, studying computer science. Worked mainly on basic systems so far but have interests in hgih performance procesing systems. Also (attempt) to make some (varying quality) games occasionally in unity, hopefully able to use it for some more interesting simulations etc later on once ive got the hang of it better. Project links to anything im currently working on or am semi moderatly pround of completing.** <br>
+**Currently a student a University of Liverpool, studying computer science. Worked mainly on basic systems so far but have interests in hgih performance procesing systems. Also (attempt) to make some (varying quality) games occasionally in unity, hopefully able to use it for some more interesting simulations etc later on once ive got the hang of it better. Project links to anything im currently working on or am semi-moderatly proud of completing.** <br>
  
 <!--! 
 ![Wakatime lifetime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM) 
