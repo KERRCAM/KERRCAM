@@ -53,11 +53,11 @@ nodejs (JavaScript stuff (learing)) <br>
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell          2 hrs 22 mins   ██████████████████▓░░░░░░   74.70 %
-Java             22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-JavaScript       19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-JSON             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Python           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Haskell          2 hrs 22 mins   █████████████████░░░░░░░░   68.63 %
+Java             22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+JavaScript       19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+CMake            12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+JSON             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
