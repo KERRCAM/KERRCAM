@@ -26,7 +26,7 @@
 -C (Attempting to make custome language and compiler for it: https://github.com/KERRCAM/NesC) <br>  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
- -GLSL (currently woking on a solar system model as a shader because why not: https://github.com/KERRCAM/solarSystemShaderSimIsh)<br>
+ -GLSL (Currently woking on a solar system model: https://github.com/KERRCAM/solarSystemShaderSimIsh)<br>
  <br>
  
 **languages id like to learn:** <br>
