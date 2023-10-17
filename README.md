@@ -27,6 +27,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  -GLSL (currently woking on a solar system model as a shader because why not: https://github.com/KERRCAM/solarSystemShaderSimIsh)<br>
+ <br>
  
 **languages id like to learn:** <br>
 -Javascript (Would like to make simple blog page at some point just to learn some web stuff) <br>  
