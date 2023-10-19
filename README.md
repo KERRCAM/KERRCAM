@@ -54,11 +54,11 @@ nodejs (JavaScript stuff) <br>
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell          2 hrs 22 mins   ██████████████▒░░░░░░░░░░   57.88 %
-Makefile         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Java             22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-JavaScript       19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-CMake            14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Haskell          2 hrs 22 mins   ██████████░░░░░░░░░░░░░░░   40.32 %
+GLSL             1 hr 46 mins    ███████▓░░░░░░░░░░░░░░░░░   30.13 %
+Makefile         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Java             22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+JavaScript       19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 ```
 
 <!--END_SECTION:waka-->
