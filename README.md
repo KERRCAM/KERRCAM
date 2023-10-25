@@ -54,11 +54,11 @@ nodejs (JavaScript stuff) <br>
 <!--START_SECTION:waka-->
 
 ```txt
-GLSL             2 hrs 49 mins   ███████████▓░░░░░░░░░░░░░   46.51 %
-Haskell          2 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   42.15 %
-Makefile         27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-C                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+GLSL             2 hrs 52 mins   █████████████░░░░░░░░░░░░   51.83 %
+Haskell          2 hrs 33 mins   ███████████▓░░░░░░░░░░░░░   46.15 %
+Java             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Makefile         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
