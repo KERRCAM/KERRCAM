@@ -28,11 +28,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  -GLSL (Currently woking on a solar system model: https://github.com/KERRCAM/solarSystemShaderSimIsh)<br>
  <br>
- 
-**languages id like to learn:** <br>
--Javascript (Would like to make simple blog page at some point just to learn some web stuff) <br>  
+
+ -Javascript (Flow Feilds) <br>  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ 
+**languages id like to learn:** <br>
 -Kotlin <br>
 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
