@@ -50,4 +50,4 @@ XML              10 mins         ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka--> 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM)]
+
