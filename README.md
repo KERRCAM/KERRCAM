@@ -50,9 +50,9 @@ XML              10 mins         ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->   
 
-![KERRCAMS's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)
+![KERRCAMS's Lifetime WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&layout=compact) 
+--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&layout=compact) 
 
 
 
