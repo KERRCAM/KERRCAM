@@ -52,8 +52,9 @@ XML              10 mins         ▓░░░░░░░░░░░░░░�
 
 ![KERRCAMS's Lifetime WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)
 
---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&layout=compact) 
-
+<!--! 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&layout=compact) 
+--> 
 
 
 
