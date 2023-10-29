@@ -48,9 +48,10 @@ C#               16 mins         █░░░░░░░░░░░░░░�
 XML              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
-<!--END_SECTION:waka-->   
+<!--END_SECTION:waka-->    
 
-![KERRCAMS's Lifetime WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)
+
+![KERRCAMS's WakaTime stats (Past year)](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)
 
 <!--! 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&layout=compact) 
