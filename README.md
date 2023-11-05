@@ -8,7 +8,7 @@
 -Java (Was my main A level langauge: https://github.com/KERRCAM/courseworkMain) <br> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
--Python (Was my main GCSE language) <br>
+-Python <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 -C# (Currently working on a 2D platformer metroidvania and an isometric dungeon crawler in Unity) <br>
