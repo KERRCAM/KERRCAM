@@ -45,10 +45,13 @@ GLSL             1 hr 19 mins    ██░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->    
-
+<!--! 
+seems fairly inacurate
 **Past years stats:**
-
 ![KERRCAMS's WakaTime stats (Past year)](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)
+--> 
+
+
 
 <!--! 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&layout=compact) 
