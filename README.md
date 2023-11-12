@@ -48,9 +48,9 @@ JavaScript       40 mins         █▒░░░░░░░░░░░░░�
 <!--! 
 seems fairly inacurate
 **Past years stats:**
-![KERRCAMS's WakaTime stats (Past year)](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)
---> 
 
+--> 
+![KERRCAMS's WakaTime stats (Past year)](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)
 
 
 <!--! 
