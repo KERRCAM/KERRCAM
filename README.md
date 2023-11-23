@@ -52,7 +52,7 @@ seems fairly inacurate
 
 
 --> 
-**Past years stats:**
+**Past years wakaTime stats and most used languages (on github repositories):**
 
 ![KERRCAMS's WakaTime stats (Past year)](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&hide=CMake,Makefile) 
