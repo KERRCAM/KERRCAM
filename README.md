@@ -5,19 +5,19 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&hide=CMake,Makefile) 
 --> 
 
-**Languages I Know Well:**
--Java
--Python
+**Languages I Know Well:** <br>
+-Java <br>
+-Python <br>
 
-**Intermediate**
--Haskell
--C
--C++
--C#
+**Intermediate** <br>
+-Haskell <br>
+-C <br>
+-C++ <br>
+-C# <br>
 
-**Begginer**
--GLSL and HLSL 
--JavaScript
+**Begginer** <br>
+-GLSL and HLSL <br>
+-JavaScript <br>
 
 **Wakatime reacent activity (not all programs i use appear, so low activity could just mean im using one of them, ...or doing nothing):**
 <!--START_SECTION:waka-->
