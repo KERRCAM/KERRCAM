@@ -5,17 +5,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&hide=CMake,Makefile) 
 --> 
 
-**Languages I Know Well:** <br>
+**Have learnt:** <br>
 -Java <br>
 -Python (Although i dont really use it now) <br>
 
-**Intermediate** <br>
+**Learing:** <br>
 -Haskell <br>
 -C <br>
 -C++ <br>
 -C# <br>
 
-**Begginer** <br>
+**Want to learn:** <br>
 -GLSL and HLSL <br>
 -JavaScript <br>
 
