@@ -7,7 +7,7 @@
 
 **Languages I Know Well:** <br>
 -Java <br>
--Python <br>
+-Python (Although i dont really use it now) <br>
 
 **Intermediate** <br>
 -Haskell <br>
