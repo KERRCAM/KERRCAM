@@ -6,8 +6,7 @@
 --> 
 
 **Have learnt:** <br>
--Java <br>
--Python (Although i dont really use it now) <br>
+-Java <br> 
 
 **Learing:** <br>
 -Haskell <br>
@@ -18,6 +17,9 @@
 **Want to learn:** <br>
 -GLSL and HLSL <br>
 -JavaScript <br>
+
+**Have learnt (But would need to refresh):** <br>
+-Python <br>
 
 **Wakatime reacent activity (not all programs i use appear, so low activity could just mean im using one of them, ...or doing nothing):**
 <!--START_SECTION:waka-->
