@@ -25,8 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell    5 hrs 1 min     █████████████████████▓░░░   86.46 %
-Markdown   47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Haskell    4 hrs 28 mins   █████████████████████░░░░   84.05 %
+Markdown   47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Text       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->    
