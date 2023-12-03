@@ -33,11 +33,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->    
-<!--! 
-seems fairly inacurate
 
-
---> 
 **Past years wakaTime stats and most used languages (On Github repositories):**
 
 ![KERRCAMS's WakaTime stats (Past year)](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)
