@@ -7,9 +7,9 @@
 
 **Have learnt:** <br>
 -Java <br> 
+-Haskell <br>
 
 **Learing:** <br>
--Haskell <br>
 -C <br>
 -C++ <br>
 -C# <br>
