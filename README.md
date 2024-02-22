@@ -36,7 +36,7 @@ ObjectiveC   2 mins          ▒░░░░░░░░░░░░░░░░
 
 **Past years wakaTime stats and most used languages (On Github repositories):**
 
-![KERRCAMS's WakaTime stats (Past year)](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)
+<!--![KERRCAMS's WakaTime stats (Past year)](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&hide=CMake,Makefile) 
 
 
