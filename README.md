@@ -13,6 +13,7 @@
 -C <br>
 -C++ <br>
 -C# <br>
+-x86 Assembly <br>
 
 **Want to learn:** <br>
 -GLSL and HLSL <br>
