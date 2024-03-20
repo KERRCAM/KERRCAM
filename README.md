@@ -8,12 +8,12 @@
 **Have learnt:** <br>
 -Java <br> 
 -Haskell <br>
+-x86 Assembly <br>
 
 **Learing:** <br>
 -C <br>
 -C++ <br>
 -C# <br>
--x86 Assembly <br>
 
 **Want to learn:** <br>
 -GLSL and HLSL <br>
