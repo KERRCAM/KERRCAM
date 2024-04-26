@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&hide=CMake,Makefile) 
 --> 
 
-**Languages I work with::** <br>
+**Languages I work with:** <br>
 -Java <br> 
 -Haskell <br>
 -x86 Assembly <br>
