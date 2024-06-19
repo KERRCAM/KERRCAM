@@ -21,8 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 49 mins    ███████████████████████▒░   93.72 %
-Java     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->    
