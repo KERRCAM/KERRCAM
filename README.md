@@ -1,4 +1,4 @@
-**Currently a student a University of Liverpool, studying Computer Science. Main projects Currently iclude: Isometric dungeon crawler in Unity, Writting my own language in C, Making an art program in C++, Making a platformer / metroidvania  in Unity.** <br>
+**Currently in second year of university studying computer science Meng. Working on new projects comming soon.** <br>
  
 <!--! 
 ![Wakatime lifetime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM) 
@@ -29,6 +29,6 @@ No activity tracked
 
 
 <!--![KERRCAMS's WakaTime stats (Past year)](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM&layout=compact)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&hide=CMake,Makefile) 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERRCAM&hide=CMake,Makefile) 
 
 
