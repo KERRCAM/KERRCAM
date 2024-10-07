@@ -1,3 +1,4 @@
+**Currently re witting projects and readme for github**
 <!--! 
 **Currently in second year of university studying computer science Meng. Working on new projects comming soon.** <br>
  
