@@ -1,4 +1,4 @@
-**Currently re witting projects and readme for github**
+**Currently re witting portfolio projects - ETA all by 01/09/2025**
 <!--! 
 **Currently in second year of university studying computer science Meng. Working on new projects comming soon.** <br>
  
