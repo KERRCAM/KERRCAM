@@ -1,4 +1,4 @@
-**Currently re witting portfolio projects - ETA all by 01/09/2025**
+**Currently re-witting portfolio projects - ETA all by 01/09/2025**
 
 <!--! 
 ![Wakatime lifetime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KERRCAM) 
