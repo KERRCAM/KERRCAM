@@ -12,3 +12,5 @@ SQL           15 mins         ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka--> 
+
+Note: I deleted quite a lot of old repositories -> hence the apparant lack of activity pre feb 2025
