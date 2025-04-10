@@ -11,6 +11,6 @@ C/C++         16 mins         ▒░░░░░░░░░░░░░░░�
 SQL           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
-<!--END_SECTION:waka--> 
+<!--END_SECTION:waka-->
 
-Note: I deleted quite a lot of old repositories -> hence the apparant lack of activity pre feb 2025
+Note: I deleted quite a lot of old repositories -> hence the apparent lack of activity pre feb 2025.
