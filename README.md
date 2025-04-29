@@ -1,6 +1,6 @@
 # WIP
 
-#### Reacent activity
+#### Reacent activity (Some programs dont show up)
 <!--START_SECTION:waka-->
 
 ```txt
