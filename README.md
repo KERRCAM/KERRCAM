@@ -1,6 +1,6 @@
 # WIP
 
-#### Reacent activity (I work during the summer, hence an appareent lack of activity June - September)
+#### Reacent activity (I work during the summer, hence an appareent lack of activity June - September, I also deleted most by old repos pre feb 25)
 <!--START_SECTION:waka-->
 
 ```txt
@@ -9,5 +9,3 @@ JSON         0 secs          █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-Note: I deleted quite a lot of old repositories -> hence the apparent lack of activity pre feb 2025.
