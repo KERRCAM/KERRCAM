@@ -1,6 +1,6 @@
 # WIP
 
-#### Reacent activity (Some programs dont show up)
+#### Reacent activity (I work during the summer, hence an appareent lack of activity June - September)
 <!--START_SECTION:waka-->
 
 ```txt
