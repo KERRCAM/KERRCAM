@@ -4,8 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 mins          ███████████████████████▓░   94.44 %
-JSON         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Fortran        5 hrs 8 mins    ████████████████████████░   95.39 %
+Makefile       11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+FortranFixed   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Modula-2       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
