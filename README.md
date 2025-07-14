@@ -12,4 +12,4 @@ Modula-2       0 secs          ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-(I work during the summer, hence an appareent lack of activity June - September, I also deleted most by old repos pre feb 25)
+I work during the summer, hence an appareent lack of activity June - September, I also deleted most by old repos pre feb 25
