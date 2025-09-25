@@ -4,7 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C          10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.18 %
+JSON       8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
+Markdown   8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.93 %
+Makefile   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+Other      2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
 ```
 
 <!--END_SECTION:waka-->
