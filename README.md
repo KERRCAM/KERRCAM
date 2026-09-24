@@ -1,6 +1,4 @@
-# WIP
-
-#### Reacent activity:
+### Reacent activity:
 <!--START_SECTION:waka-->
 
 ```txt
